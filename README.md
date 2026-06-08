@@ -124,6 +124,8 @@ Starting with large weights means large activations, which push sigmoid into its
 | Full forward + backward loop | `network.py → train_step()` |
 | Non-linear problem (XOR) | `train_xor.py` |
 
+![Loss Curve](images/loss_curve.png)
+
 ---
 
 ## Next steps
